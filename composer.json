@@ -1,6 +1,6 @@
 {
-    "name": "kwn/number-to-words",
-    "description": "Multi language standalone PHP number to words converter. Fully tested, open for extensions and new languages.",
+    "name": "cos/number-to-words",
+    "description": "Multi language standalone PHP number to words converter. Fully tested, open for extensions and new languages. Forked the kwn/number-to-words, with added some new languages",
     "type": "library",
     "license": "MIT",
     "keywords": ["number", "numbers", "to", "words", "string", "money", "currency"],
